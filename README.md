@@ -23,12 +23,8 @@ Ola, me chamo thiago cordeiro dantas , para os amigos thiaguinho , sou estudante
 | JavaScript | Css | Html | ReactJs | ExpressJs | MongoDB | NodeJs | NestJs | Git | Npm |
 |--|--|--|--|--|--|--|--|--|--|
 
-# > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
-
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=thiagocordeirodantas&show_owner=true&repo=OokamiBot&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
-| ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagocordeirodantas&theme=high-contrast)](https://github.com/thiagocordeirodantas)
 
-## > Provided by <code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>
+
