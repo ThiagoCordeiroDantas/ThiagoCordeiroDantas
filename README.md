@@ -5,7 +5,7 @@
 Ola, me chamo thiago cordeiro dantas , para os amigos thiaguinho , sou estudante de desenvolvimento front-end
 </div>
 
-[Contact](mailto:thiiagoccordeirodantass@gmail.com?subject=Portfolio%20%7C%20Contact%20Page&body=%2F%2FEspa%C3%B1ol%0AHola%2C%20te%20escribo%20desde%20el%20link%20de%20correo%20de%20tu%20portfolio.%20I%20am%20.....%0A%0A%2F%2FIngles%0AHello%2C%20I%20am%20writing%20to%20you%20from%20the%20email%20link%20of%20your%20portfolio.%20I%20am%20.....)
+
 <br>
 
 * Eu moro em Barueri, Brasil
@@ -19,12 +19,12 @@ Ola, me chamo thiago cordeiro dantas , para os amigos thiaguinho , sou estudante
 | ----- | ----- |
   
 
-# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+# > <code>⠀⠀💻⠀⠀Habilidades⠀⠀</code>
 | JavaScript | Css | Html | ReactJs | ExpressJs | MongoDB | NodeJs | NestJs | Git | Npm |
 |--|--|--|--|--|--|--|--|--|--|
 
 
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagocordeirodantas&theme=high-contrast)](https://github.com/thiagocordeirodantas)
 
 
