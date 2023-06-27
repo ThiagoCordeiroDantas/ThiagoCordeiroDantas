@@ -15,7 +15,7 @@ Ola, me chamo thiago cordeiro dantas , para os amigos thiaguinho , sou estudante
 <br>
 
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=thiagocordeirodantas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocordeirodantas&langs_count=8) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=thiagocordeirodantas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocordeirodantas&langs_count=8&theme=radical&hide_border=true) |
 | ----- | ----- |
   
 
