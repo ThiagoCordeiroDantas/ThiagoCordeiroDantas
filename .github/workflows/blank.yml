@@ -1,4 +1,4 @@
-name: blank
+name: Generate Datas
 
 on:
   schedule: # execute every 6 hours
