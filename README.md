@@ -27,6 +27,6 @@ Ola, me chamo thiago cordeiro dantas , para os amigos thiaguinho , sou estudante
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagocordeirodantas&theme=high-contrast)](https://github.com/thiagocordeirodantas)
 
-[snake gif](https://github.com/thiagocordeirodantas/thiagocordeirodantas/blob/output/github-contribution-grid-snake.svg)
+
 
 
